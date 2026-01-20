@@ -1,10 +1,10 @@
-# 🍅 Tomato - Full Stack Food Delivery Application
+# Tomato - Full Stack Food Delivery Application
 
 A complete, production-ready food delivery platform built with modern web technologies. Tomato provides a seamless experience for customers to browse food, place orders, and for administrators to manage the delivery service.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -23,7 +23,7 @@ A complete, production-ready food delivery platform built with modern web techno
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **Tomato** is a comprehensive food delivery system designed with three separate applications:
 
@@ -35,7 +35,7 @@ The application supports user authentication, food catalog management, shopping 
 
 ---
 
-## ✨ Features
+## Features
 
 ### Customer Features
 - **User Authentication**: Secure registration and login with JWT tokens
