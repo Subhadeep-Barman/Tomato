@@ -14,7 +14,6 @@ A complete, production-ready food delivery platform built with modern web techno
 - [Installation & Setup](#installation--setup)
 - [Environment Variables](#environment-variables)
 - [Running the Application](#running-the-application)
-- [API Documentation](#api-documentation)
 - [Database Schema](#database-schema)
 - [Features in Detail](#features-in-detail)
 - [Deployment](#deployment)
