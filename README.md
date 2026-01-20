@@ -2,6 +2,7 @@
 
 A complete, production-ready food delivery platform built with modern web technologies. Tomato provides a seamless experience for customers to browse food, place orders, and for administrators to manage the delivery service.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://tomato-gules.vercel.app/)
 ---
 
 ## Table of Contents
